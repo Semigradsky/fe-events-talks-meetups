@@ -1,4 +1,20 @@
 name: MoscowJS 62
 date: 2024-11-21
-videos: 
-talks: []
+videos: https://youtu.be/ANnijAxNejg
+talks:
+  - name: Адаптируй это
+    speaker: Геннадий Ватитов
+    video: https://www.youtube.com/watch?v=ANnijAxNejg&t=1269s
+    presentation: 
+  - name: 1000 и 1 способ оптимизировать медиафайлы
+    speaker: Денис Филипкин
+    video: https://www.youtube.com/watch?v=ANnijAxNejg&t=2886s
+    presentation: 
+  - name: Идеальная команда. Какая она?
+    speaker: Александр Ермолов
+    video: https://www.youtube.com/watch?v=ANnijAxNejg&t=5846s
+    presentation: 
+  - name: "1 + 1 ﹥ 2: Парное программирование в реальности"
+    speaker: Аврора Ренард
+    video: https://www.youtube.com/watch?v=ANnijAxNejg&t=7618s
+    presentation: 

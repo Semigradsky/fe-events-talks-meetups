@@ -1,0 +1,20 @@
+name: MoscowJS 68
+date: 2025-09-25
+videos: https://youtu.be/oWucwxJsqHw
+talks:
+  - name: Как мы запретили писать код с багами в локализации
+    speaker: Данил Анапрейчик
+    video: https://www.youtube.com/live/oWucwxJsqHw?feature=shared&t=1651
+    presentation: https://drive.google.com/file/d/1s9ypkimvm4lsIATxIQtKr29vE5dv_eKd/view?usp=sharing
+  - name: React и функциональные шаблоны. Паттерн FACC.
+    speaker: Роман Ганин
+    video: https://www.youtube.com/live/oWucwxJsqHw?feature=shared&t=3297
+    presentation: https://romanganin.ru/lecture-declarative-jsx-with-facc-moscowjs/#/intro
+  - name: "10⁸ клеток: алгоритмы и производительность в JavaScript"
+    speaker: Александр Моргунов
+    video: https://www.youtube.com/live/oWucwxJsqHw?feature=shared&t=6200
+    presentation: https://docs.google.com/presentation/d/1VFFG_WrEO93_KCidsiFU53M-QqePxX01zPU2DRq2giI/edit?slide=id.g37c02664a8c_0_44#slide=id.g37c02664a8c_0_44
+  - name: Предохранители от выгорания, или почему «Устал? Отдохни» не работает
+    speaker: Никита Ульшин
+    video: https://www.youtube.com/live/oWucwxJsqHw?feature=shared&t=7977
+    presentation: https://drive.google.com/file/d/17QnadTbbyJ3IVSIy4jEaHxp4Ln7jRW8R/view?usp=sharing

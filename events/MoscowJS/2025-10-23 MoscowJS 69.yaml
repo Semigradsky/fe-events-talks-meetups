@@ -1,0 +1,20 @@
+name: MoscowJS 69
+date: 2025-10-23
+videos: https://youtu.be/woWohXE9gHE
+talks:
+  - name: Не ошибается тот, кто ничего не делает, или как падать правильно
+    speaker: Елена Евтифьева
+    video: https://www.youtube.com/live/woWohXE9gHE?t=1114s
+    presentation: https://drive.google.com/file/d/1DR6DX8Vbn__HP1lwnZOljAwZwenUXPr-/view?usp=sharing
+  - name: Разработка мигратора кода с использованием AI на примере миграции с Linaria на CSS modules
+    speaker: Михаил Витик
+    video: https://www.youtube.com/live/woWohXE9gHE?t=2832s
+    presentation: https://drive.google.com/file/d/1Dnn9s7ha8kkEIFn2_uQoHuQYKIiyl6Ql/view?usp=sharing
+  - name: "Vike: Один фреймворк, чтобы править всеми"
+    speaker: Илья Оловянников
+    video: https://www.youtube.com/live/woWohXE9gHE?t=5869s
+    presentation: https://drive.google.com/file/d/1t5x0J1h2YS-jg9Zudxm7pAsnv9mNJAzg/view?usp=sharing
+  - name: Я сделал reactuse и мне есть, что рассказать
+    speaker: Дмитрий Бабин
+    video: https://www.youtube.com/live/woWohXE9gHE?t=7785s
+    presentation: https://drive.google.com/file/d/14q3APczPcUICl4VuvB_FhmNQ24DmTUq4/view?usp=sharing

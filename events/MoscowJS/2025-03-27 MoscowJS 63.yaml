@@ -1,0 +1,20 @@
+name: MoscowJS 63
+date: 2025-03-27
+videos: https://youtu.be/LGGHeuai0PA
+talks:
+  - name: Чистая архитектура фронтенд-приложений
+    speaker: Кристиан Шандер
+    video: 
+    presentation: https://drive.google.com/file/d/1C6g9Bawo1PxMeUEs53jHiL2KqsAV1OFk/view?usp=sharing
+  - name: Путь от Senior Web разработчика до Tech Lead Web
+    speaker: Колпаков Александр
+    video: 
+    presentation: https://drive.google.com/file/d/1dn5SsnqISNbAdx9p06p1zjRJxFlpLfN_/view?usp=sharing
+  - name: "AI во фронтенде: преимущества внедрения машинного обучения в браузере"
+    speaker: Булат Ямилов
+    video: 
+    presentation: https://drive.google.com/file/d/1ypr8kh_HlczRjLQoEuWbT3dtZYqHJ988/view?usp=sharing
+  - name: "Надо, но завтра: как подчинить себе прокрастинацию"
+    speaker: Юлия Уварова
+    video: 
+    presentation: https://drive.google.com/file/d/1Nv4tkTUM1hQpN9-sFAYcgrJUT3owIn9t/view?usp=sharing

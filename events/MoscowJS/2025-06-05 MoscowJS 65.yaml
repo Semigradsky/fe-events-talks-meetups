@@ -1,0 +1,20 @@
+name: MoscowJS 65
+date: 2025-06-05
+videos: https://youtu.be/9_VP3akhEXk
+talks:
+  - name: Что можно не знать про LLM, чтобы создать себе замену
+    speaker: Андрей Толстых
+    video: 
+    presentation: https://drive.google.com/file/d/1jlovlmHI_jVrnizAZP7k-KIYfAHeNF5V/view?usp=sharing
+  - name: Ох уж этот AI! Что ты такое?
+    speaker: Александр Ермолов
+    video: 
+    presentation: https://docs.google.com/presentation/d/1oBkHI0pK33lY9BZMGcEK5v6Ud5KgV0qN/edit?usp=sharing&ouid=102491114441449685365&rtpof=true&sd=true
+  - name: "AI в QA: UI тесты простым языком"
+    speaker: Даниил Ахетов
+    video: 
+    presentation: https://drive.google.com/file/d/1xTgNHCbOUHiOlBq0gTQZzgFni-I-xKNx/view?usp=sharing
+  - name: AI и безопасность при работе с NPM
+    speaker: Анастасия Егорова
+    video: 
+    presentation: https://drive.google.com/file/d/180qOVVFpJqrLsLNrooxvjwoUlE60HPF5/view?usp=sharing

@@ -1,0 +1,20 @@
+name: MoscowJS 64
+date: 2025-05-15
+videos: https://youtu.be/X2WdLN3dlu4
+talks:
+  - name: Как прийти к линтеру в своей команде
+    speaker: Павел Виноградов
+    video: 
+    presentation: https://drive.google.com/file/d/1QtdQYFQC8sk5BAA9gl_tD08PY8ApZXgt/view?usp=sharing
+  - name: Архитектура идет по плану
+    speaker: Борис Ермаченко
+    video: 
+    presentation: https://drive.google.com/file/d/1BUWwZwjROcXoRTOHSFKFxLAtgS4U0JYB/view?usp=sharing
+  - name: "Коммиты без хаоса: как Conventional Commits делают историю чище и понятнее"
+    speaker: Иван Соколовский
+    video: 
+    presentation: https://drive.google.com/file/d/1UpK4URBfSJyAW6oCHunPpJUcCnt6u7hG/view?usp=sharing
+  - name: "Дискуссия: Стандарты ?= коллективное сознательное"
+    speaker: Илья Крупнов, Вадим Царегородцев, Никита Сидоров
+    video: 
+    presentation: https://drive.google.com/file/d/1vTyQ0KhHArTdxwlD33Fl4KmaHqWvnsvm/view?usp=sharing

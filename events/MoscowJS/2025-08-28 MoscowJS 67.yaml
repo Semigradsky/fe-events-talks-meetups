@@ -1,0 +1,20 @@
+name: MoscowJS 67
+date: 2025-08-28
+videos: 
+talks:
+  - name: Путь JavaScript-инженера в мир DeFi
+    speaker: Даниил Швецов
+    video: 
+    presentation: https://docs.google.com/presentation/d/1nv3ht5l35RCfQ9H2nfc9vzWA_EW7Q3t-/edit?usp=sharing&ouid=102491114441449685365&rtpof=true&sd=true
+  - name: "Архитектура микрофронтендов: от А до Single Spa"
+    speaker: Павел Шлыков
+    video: 
+    presentation: https://docs.google.com/presentation/d/18e8dnjPJNqHLT9CH2dgSieBhLIc-xKQM/edit?usp=sharing&ouid=102491114441449685365&rtpof=true&sd=true
+  - name: Под капотом платформы
+    speaker: Антон Марченко
+    video: 
+    presentation: https://drive.google.com/file/d/1MvHvHSsCGnbCXnc1L5Zei6DCI6-K8XOO/view?usp=sharing
+  - name: "Гильдия: место, где разработчик перестаёт быть одиноким кузнецом"
+    speaker: Владислав Сазонов
+    video: 
+    presentation: https://drive.google.com/file/d/1RiXwcZWSusw4mnG0gcyEPvovspHNrmoz/view?usp=sharing

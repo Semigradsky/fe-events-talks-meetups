@@ -1,0 +1,20 @@
+name: MoscowJS 66
+date: 2025-07-03
+videos: https://youtu.be/olNXUCZUw7U
+talks:
+  - name: Свой бот — проще, чем кажется
+    speaker: Сергей Осипов
+    video: https://www.youtube.com/watch?v=olNXUCZUw7U&t=458s
+    presentation: https://drive.google.com/file/d/1ykPQgH2baaIPF9JopEo6nsUgvm-15WY4/view?usp=sharing
+  - name: В чём польза LangChain.js
+    speaker: Антон Непша
+    video: https://www.youtube.com/watch?v=olNXUCZUw7U&t=2154s
+    presentation: https://drive.google.com/file/d/144rIP7vhtvRYSRnsvpNYtCNAZ9apd3on/view?usp=sharing
+  - name: Один интерфейс, чтобы править всеми
+    speaker: Дарья Двуреченская
+    video: https://www.youtube.com/watch?v=olNXUCZUw7U&t=5508s
+    presentation: https://docs.google.com/presentation/d/1TyYOnJaoiXbfij31Q5xv6YTlhSC-v2XH/edit?usp=sharing&ouid=102491114441449685365&rtpof=true&sd=true
+  - name: "Особенности тестирования типов: нужно ли оно вам?"
+    speaker: Константин Логиновских
+    video: https://www.youtube.com/watch?v=olNXUCZUw7U&t=6881s
+    presentation: https://drive.google.com/file/d/1a1eVo1MnmNY9fMz2YXntWOZY3LW0CChk/view?usp=sharing
