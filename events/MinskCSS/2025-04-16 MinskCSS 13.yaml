@@ -1,0 +1,16 @@
+name: MinskCSS 13
+date: 2025-04-16
+videos: https://www.youtube.com/playlist?list=PL3uk4LxG9ZzmZGqpQmIMbGsiwtB6wU5Dp
+talks:
+  - name: Доступная тёмная тема. Взгляд изнутри
+    speaker: Анастасия Ярош
+    video: https://youtu.be/6wK9z7zahPw
+    presentation: https://minskcss.github.io/minskcss.by.github.io/files/slides/anastasia_yarosh_-_dark_theme.pdf
+  - name: "Резиновая типографика: магия clamp()"
+    speaker: Татьяна Фокина
+    video: https://youtu.be/jasV7jll_pY
+    presentation: https://tatianafokina.github.io/talks/css-clamp/
+  - name: Вы не знаете MathML. Почти никто не знает
+    speaker: Вадим Макеев
+    video: https://youtu.be/iUgE63fMQ4I
+    presentation: https://minskcss.github.io/minskcss.by.github.io/files/slides/vadim-makeev-nobody-knows-mathml.zip

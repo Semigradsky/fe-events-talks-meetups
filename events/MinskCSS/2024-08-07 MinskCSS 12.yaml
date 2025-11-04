@@ -1,0 +1,17 @@
+name: MinskCSS 12
+date: 2024-08-07
+videos: https://www.youtube.com/playlist?list=PL3uk4LxG9Zzm8vX9HbuWCKuFxAyc8tXov
+talks:
+  - name: 3D-моделирование на CSS
+    speaker: Юлия Миоцен
+    video: https://youtu.be/r06cu0U1O5g
+    presentation: 
+    code: https://codepen.io/miocene/pen/eYaRgVE
+  - name: Возможности AI в цифровой доступности
+    speaker: Глафира Жур
+    video: https://youtu.be/gxmrE6_vajo
+    presentation: https://docs.google.com/presentation/d/1VRO25KQGR0swgAKuUrp67YrQ4VPU--dbfFR9tbfBsgg
+  - name: What we do in the Shadow (DOM)
+    speaker: Алексей Назаренко
+    video: https://youtu.be/xBDZAj3ufMQ
+    presentation: https://shadow-dom-minskcss.netlify.app/
