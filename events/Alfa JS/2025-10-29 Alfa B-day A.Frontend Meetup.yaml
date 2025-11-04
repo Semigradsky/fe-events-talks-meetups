@@ -1,0 +1,20 @@
+name: Alfa B-day A?.Frontend Meetup
+date: 2025-10-29
+videos: https://www.youtube.com/watch?v=QFO98xcgBXQ
+talks:
+  - name: "Миграция фронтенд-кода: автоматизируем рутину"
+    speaker: Иван Усынин
+    video: 
+    presentation: 
+  - name: "JavaScript на большом экране: Как укротить WebOS и не сломать пульт от ТВ"
+    speaker: Антон Халин
+    video: 
+    presentation: 
+  - name: Dreamcoding или как вернуть искру разработки, на примере трех проектов
+    speaker: Зар Захаров
+    video: 
+    presentation: 
+  - name: Эволюция OpenAI API — как это влияет на взаимодействие с AI в продуктах, которые мы разрабатываем
+    speaker: Андрей Мелихов
+    video: 
+    presentation: 
