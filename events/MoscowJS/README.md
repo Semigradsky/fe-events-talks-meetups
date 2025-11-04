@@ -3,9 +3,62 @@
 
 # MoscowJS
 
-## MoscowJS 62 - 2024 Nov 21 
+## MoscowJS 69 - 2025 Oct 23 [:movie_camera:](https://youtu.be/woWohXE9gHE)
 | | | |
 | --- | :---: | --- |
+| [Не ошибается тот, кто ничего не делает, или как падать правильно](https://www.youtube.com/live/woWohXE9gHE?t=1114s)  |  [Елена Евтифьева](../../speakers/Елена%20Евтифьева.md)  | [:notebook:](https://drive.google.com/file/d/1DR6DX8Vbn__HP1lwnZOljAwZwenUXPr-/view?usp=sharing)   |
+| [Разработка мигратора кода с использованием AI на примере миграции с Linaria на CSS modules](https://www.youtube.com/live/woWohXE9gHE?t=2832s)  |  [Михаил Витик](../../speakers/Михаил%20Витик.md)  | [:notebook:](https://drive.google.com/file/d/1Dnn9s7ha8kkEIFn2_uQoHuQYKIiyl6Ql/view?usp=sharing)   |
+| [Vike: Один фреймворк, чтобы править всеми](https://www.youtube.com/live/woWohXE9gHE?t=5869s)  |  [Илья Оловянников](../../speakers/Илья%20Оловянников.md)  | [:notebook:](https://drive.google.com/file/d/1t5x0J1h2YS-jg9Zudxm7pAsnv9mNJAzg/view?usp=sharing)   |
+| [Я сделал reactuse и мне есть, что рассказать](https://www.youtube.com/live/woWohXE9gHE?t=7785s)  |  [Дмитрий Бабин](../../speakers/Дмитрий%20Бабин.md)  | [:notebook:](https://drive.google.com/file/d/14q3APczPcUICl4VuvB_FhmNQ24DmTUq4/view?usp=sharing)   |
+## MoscowJS 68 - 2025 Sep 25 [:movie_camera:](https://youtu.be/oWucwxJsqHw)
+| | | |
+| --- | :---: | --- |
+| [Как мы запретили писать код с багами в локализации](https://www.youtube.com/live/oWucwxJsqHw?feature=shared&t=1651)  |  [Данил Анапрейчик](../../speakers/Данил%20Анапрейчик.md)  | [:notebook:](https://drive.google.com/file/d/1s9ypkimvm4lsIATxIQtKr29vE5dv_eKd/view?usp=sharing)   |
+| [React и функциональные шаблоны. Паттерн FACC.](https://www.youtube.com/live/oWucwxJsqHw?feature=shared&t=3297)  |  [Роман Ганин](../../speakers/Роман%20Ганин.md)  | [:notebook:](https://romanganin.ru/lecture-declarative-jsx-with-facc-moscowjs/#/intro)   |
+| [10⁸ клеток: алгоритмы и производительность в JavaScript](https://www.youtube.com/live/oWucwxJsqHw?feature=shared&t=6200)  |  [Александр Моргунов](../../speakers/Александр%20Моргунов.md)  | [:notebook:](https://docs.google.com/presentation/d/1VFFG_WrEO93_KCidsiFU53M-QqePxX01zPU2DRq2giI/edit?slide=id.g37c02664a8c_0_44#slide=id.g37c02664a8c_0_44)   |
+| [Предохранители от выгорания, или почему «Устал? Отдохни» не работает](https://www.youtube.com/live/oWucwxJsqHw?feature=shared&t=7977)  |  [Никита Ульшин](../../speakers/Никита%20Ульшин.md)  | [:notebook:](https://drive.google.com/file/d/17QnadTbbyJ3IVSIy4jEaHxp4Ln7jRW8R/view?usp=sharing)   |
+## MoscowJS 67 - 2025 Aug 28 
+| | | |
+| --- | :---: | --- |
+| Путь JavaScript-инженера в мир DeFi  |  [Даниил Швецов](../../speakers/Даниил%20Швецов.md)  | [:notebook:](https://docs.google.com/presentation/d/1nv3ht5l35RCfQ9H2nfc9vzWA_EW7Q3t-/edit?usp=sharing&ouid=102491114441449685365&rtpof=true&sd=true)   |
+| Архитектура микрофронтендов: от А до Single Spa  |  [Павел Шлыков](../../speakers/Павел%20Шлыков.md)  | [:notebook:](https://docs.google.com/presentation/d/18e8dnjPJNqHLT9CH2dgSieBhLIc-xKQM/edit?usp=sharing&ouid=102491114441449685365&rtpof=true&sd=true)   |
+| Под капотом платформы  |  [Антон Марченко](../../speakers/Антон%20Марченко.md)  | [:notebook:](https://drive.google.com/file/d/1MvHvHSsCGnbCXnc1L5Zei6DCI6-K8XOO/view?usp=sharing)   |
+| Гильдия: место, где разработчик перестаёт быть одиноким кузнецом  |  [Владислав Сазонов](../../speakers/Владислав%20Сазонов.md)  | [:notebook:](https://drive.google.com/file/d/1RiXwcZWSusw4mnG0gcyEPvovspHNrmoz/view?usp=sharing)   |
+## MoscowJS 66 - 2025 Jul 03 [:movie_camera:](https://youtu.be/olNXUCZUw7U)
+| | | |
+| --- | :---: | --- |
+| [Свой бот — проще, чем кажется](https://www.youtube.com/watch?v=olNXUCZUw7U&t=458s)  |  [Сергей Осипов](../../speakers/Сергей%20Осипов.md)  | [:notebook:](https://drive.google.com/file/d/1ykPQgH2baaIPF9JopEo6nsUgvm-15WY4/view?usp=sharing)   |
+| [В чём польза LangChain.js](https://www.youtube.com/watch?v=olNXUCZUw7U&t=2154s)  |  [Антон Непша](../../speakers/Антон%20Непша.md)  | [:notebook:](https://drive.google.com/file/d/144rIP7vhtvRYSRnsvpNYtCNAZ9apd3on/view?usp=sharing)   |
+| [Один интерфейс, чтобы править всеми](https://www.youtube.com/watch?v=olNXUCZUw7U&t=5508s)  |  [Дарья Двуреченская](../../speakers/Дарья%20Двуреченская.md)  | [:notebook:](https://docs.google.com/presentation/d/1TyYOnJaoiXbfij31Q5xv6YTlhSC-v2XH/edit?usp=sharing&ouid=102491114441449685365&rtpof=true&sd=true)   |
+| [Особенности тестирования типов: нужно ли оно вам?](https://www.youtube.com/watch?v=olNXUCZUw7U&t=6881s)  |  [Константин Логиновских](../../speakers/Константин%20Логиновских.md)  | [:notebook:](https://drive.google.com/file/d/1a1eVo1MnmNY9fMz2YXntWOZY3LW0CChk/view?usp=sharing)   |
+## MoscowJS 65 - 2025 Jun 05 [:movie_camera:](https://youtu.be/9_VP3akhEXk)
+| | | |
+| --- | :---: | --- |
+| Что можно не знать про LLM, чтобы создать себе замену  |  [Андрей Толстых](../../speakers/Андрей%20Толстых.md)  | [:notebook:](https://drive.google.com/file/d/1jlovlmHI_jVrnizAZP7k-KIYfAHeNF5V/view?usp=sharing)   |
+| Ох уж этот AI! Что ты такое?  |  [Александр Ермолов](../../speakers/Александр%20Ермолов.md)  | [:notebook:](https://docs.google.com/presentation/d/1oBkHI0pK33lY9BZMGcEK5v6Ud5KgV0qN/edit?usp=sharing&ouid=102491114441449685365&rtpof=true&sd=true)   |
+| AI в QA: UI тесты простым языком  |  [Даниил Ахетов](../../speakers/Даниил%20Ахетов.md)  | [:notebook:](https://drive.google.com/file/d/1xTgNHCbOUHiOlBq0gTQZzgFni-I-xKNx/view?usp=sharing)   |
+| AI и безопасность при работе с NPM  |  [Анастасия Егорова](../../speakers/Анастасия%20Егорова.md)  | [:notebook:](https://drive.google.com/file/d/180qOVVFpJqrLsLNrooxvjwoUlE60HPF5/view?usp=sharing)   |
+## MoscowJS 64 - 2025 May 15 [:movie_camera:](https://youtu.be/X2WdLN3dlu4)
+| | | |
+| --- | :---: | --- |
+| Как прийти к линтеру в своей команде  |  [Павел Виноградов](../../speakers/Павел%20Виноградов.md)  | [:notebook:](https://drive.google.com/file/d/1QtdQYFQC8sk5BAA9gl_tD08PY8ApZXgt/view?usp=sharing)   |
+| Архитектура идет по плану  |  [Борис Ермаченко](../../speakers/Борис%20Ермаченко.md)  | [:notebook:](https://drive.google.com/file/d/1BUWwZwjROcXoRTOHSFKFxLAtgS4U0JYB/view?usp=sharing)   |
+| Коммиты без хаоса: как Conventional Commits делают историю чище и понятнее  |  [Иван Соколовский](../../speakers/Иван%20Соколовский.md)  | [:notebook:](https://drive.google.com/file/d/1UpK4URBfSJyAW6oCHunPpJUcCnt6u7hG/view?usp=sharing)   |
+| Дискуссия: Стандарты ?&#x3D; коллективное сознательное  |  [Илья Крупнов](../../speakers/Илья%20Крупнов.md)  [Вадим Царегородцев](../../speakers/Вадим%20Царегородцев.md)  [Никита Сидоров](../../speakers/Никита%20Сидоров.md)  | [:notebook:](https://drive.google.com/file/d/1vTyQ0KhHArTdxwlD33Fl4KmaHqWvnsvm/view?usp=sharing)   |
+## MoscowJS 63 - 2025 Mar 27 [:movie_camera:](https://youtu.be/LGGHeuai0PA)
+| | | |
+| --- | :---: | --- |
+| Чистая архитектура фронтенд-приложений  |  [Кристиан Шандер](../../speakers/Кристиан%20Шандер.md)  | [:notebook:](https://drive.google.com/file/d/1C6g9Bawo1PxMeUEs53jHiL2KqsAV1OFk/view?usp=sharing)   |
+| Путь от Senior Web разработчика до Tech Lead Web  |  [Колпаков Александр](../../speakers/Колпаков%20Александр.md)  | [:notebook:](https://drive.google.com/file/d/1dn5SsnqISNbAdx9p06p1zjRJxFlpLfN_/view?usp=sharing)   |
+| AI во фронтенде: преимущества внедрения машинного обучения в браузере  |  [Булат Ямилов](../../speakers/Булат%20Ямилов.md)  | [:notebook:](https://drive.google.com/file/d/1ypr8kh_HlczRjLQoEuWbT3dtZYqHJ988/view?usp=sharing)   |
+| Надо, но завтра: как подчинить себе прокрастинацию  |  [Юлия Уварова](../../speakers/Юлия%20Уварова.md)  | [:notebook:](https://drive.google.com/file/d/1Nv4tkTUM1hQpN9-sFAYcgrJUT3owIn9t/view?usp=sharing)   |
+## MoscowJS 62 - 2024 Nov 21 [:movie_camera:](https://youtu.be/ANnijAxNejg)
+| | | |
+| --- | :---: | --- |
+| [Адаптируй это](https://www.youtube.com/watch?v=ANnijAxNejg&t=1269s)  |  [Геннадий Ватитов](../../speakers/Геннадий%20Ватитов.md)  |    |
+| [1000 и 1 способ оптимизировать медиафайлы](https://www.youtube.com/watch?v=ANnijAxNejg&t=2886s)  |  [Денис Филипкин](../../speakers/Денис%20Филипкин.md)  |    |
+| [Идеальная команда. Какая она?](https://www.youtube.com/watch?v=ANnijAxNejg&t=5846s)  |  [Александр Ермолов](../../speakers/Александр%20Ермолов.md)  |    |
+| [1 + 1 ﹥ 2: Парное программирование в реальности](https://www.youtube.com/watch?v=ANnijAxNejg&t=7618s)  |  [Аврора Ренард](../../speakers/Аврора%20Ренард.md)  |    |
 ## MoscowJS 61 - 2024 Aug 15 [:movie_camera:](https://youtu.be/CxzRuIayiVk)
 | | | |
 | --- | :---: | --- |
