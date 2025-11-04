@@ -1,20 +1,20 @@
 name: Tbilisi JS Meetup 1
 date: 2024-01-25
-videos: https://youtu.be/ZO3aPtUoB6Y
+videos: https://www.youtube.com/playlist?list=PLduqjbnjNUvfT3dBvG-1kXk11raKlMxlH
 talks:
   - name: Зачем фронтенд в биотехе?
     speaker: Мария Кондаурова
-    video: 
+    video: https://www.youtube.com/watch?v=CKe7MQg8Mrc
     presentation: https://t.me/tbilisi_js_chat/2373
   - name: Dial M for Maintainability (Part 1)
     speaker: Азат Давлятшин
-    video: 
+    video: https://www.youtube.com/watch?v=4AqRsCX6GGw
     presentation: https://t.me/tbilisi_js_chat/2370
   - name: Для чего нам может быть нужен cloud serverless во фронтенде?
     speaker: Антон Павлов
-    video: 
+    video: https://www.youtube.com/watch?v=wNqhaK2rdSc
     presentation: https://t.me/tbilisi_js_chat/2374
   - name: Дока друг для друга
     speaker: Татьяна Фокина
-    video: 
+    video: https://www.youtube.com/watch?v=Zhlfia_l-bc
     presentation: https://t.me/tbilisi_js_chat/2370

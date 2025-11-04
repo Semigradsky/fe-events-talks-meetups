@@ -1,0 +1,28 @@
+name: Tbilisi JS Meetup 6
+date: 2025-06-14
+videos: https://www.youtube.com/playlist?list=PLduqjbnjNUvdhTSARs6y9grynaRKoic8n
+talks:
+  - name: "Dungeons & Dragons как инструмент прототипирования LLM голосового ассистента"
+    speaker: Анна Кострица
+    video: https://youtu.be/KiUBgTxPQ2c
+    presentation: https://www.figma.com/deck/l7IybfOn1HgJIecOonbA8H/TbilisiJS--2---14.06?node-id=4040-30&viewport=160%2C251%2C0.08&t=mSy3MtGsAbTXQYiZ-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1
+  - name: Как устроен LangChain.js и всегда ли он полезен
+    speaker: Антон Непша
+    video: https://youtu.be/B-jwMKgktc0
+    presentation: https://t.me/tbilisi_js/475
+  - name: React 19. Новые инструменты для работы с формами
+    speaker: Сергей Левкович
+    video: https://youtu.be/r__rzKIt7wY
+    presentation: https://t.me/tbilisi_js/475
+  - name: "Живой интерфейс: как (и с помощью чего) лучше анимировать веб в 2025?"
+    speaker: Евгений Дорошкевич
+    video: https://youtu.be/LmcoYBys02k
+    presentation: https://t.me/tbilisi_js/475
+  - name: Voice AI
+    speaker: Максим Баринов
+    video: https://youtu.be/T9gHv4rjkjo
+    presentation: https://pitch.com/v/voice-ai-max-barinov-2khgjs
+  - name: major.minor.patch без головной боли
+    speaker: Азат Давлятшин
+    video: https://youtu.be/IrP3x7qz0XQ
+    presentation: https://t.me/tbilisi_js/473

@@ -1,0 +1,24 @@
+name: Tbilisi JS Meetup 5
+date: 2025-02-22
+videos: https://www.youtube.com/playlist?list=PLduqjbnjNUvc6Xs6JeGVb40yj0EO2XsPt
+talks:
+  - name: "Лёгкий способ бросить ~курить~ React"
+    speaker: Даниил Савицкий
+    video: https://www.youtube.com/watch?v=JAwk8ZBxAHk
+    presentation: https://t.me/tbilisi_js/319
+  - name: Трансформация из фронтенда в команду fullstack инженеров
+    speaker: Денис Ильин
+    video: https://www.youtube.com/watch?v=uSmbI9Hq1eI
+    presentation: https://t.me/tbilisi_js/319
+  - name: Помнить всё
+    speaker: Олег Семичев
+    video: https://www.youtube.com/watch?v=v3NcxJgEWlQ
+    presentation: https://t.me/tbilisi_js/319
+  - name: "React Server Components. Что, как и самое главное зачем?"
+    speaker: Александр Савельев
+    video: https://www.youtube.com/watch?v=mDtpTZclT0w
+    presentation: https://t.me/tbilisi_js/319
+  - name: Генеративное искусство на JS
+    speaker: Александр Коротаев
+    video: https://www.youtube.com/watch?v=JxBbe26uE-M
+    presentation: 

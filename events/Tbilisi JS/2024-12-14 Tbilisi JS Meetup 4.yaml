@@ -1,0 +1,20 @@
+name: Tbilisi JS Meetup 4
+date: 2024-12-14
+videos: https://www.youtube.com/playlist?list=PLduqjbnjNUvcqCnXTUJkao2Ut7ArX6QDh
+talks:
+  - name: "Echoes of Exclusion: от исследования проблемы предвзятостей Generative AI до инсталляции"
+    speaker: Анна Кострица
+    video: https://youtu.be/ymr5AXlqPOI
+    presentation: https://t.me/tbilisi_js/249
+  - name: Браузер как платформа для «тяжелых» приложений
+    speaker: Денис Ильин
+    video: https://youtu.be/Wl_LJFzmXwk
+    presentation: https://t.me/tbilisi_js/249
+  - name: Как писать текст в интерфейсе без UX-редактора
+    speaker: Лера Яковлева
+    video: https://youtu.be/f2_NFLtOmSo
+    presentation: https://t.me/tbilisi_js/249
+  - name: Infrastructure as TypeScript
+    speaker: Кирилл Казаков
+    video: https://youtu.be/uYJAA16EuQ4
+    presentation: https://t.me/tbilisi_js/249

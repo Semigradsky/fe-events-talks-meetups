@@ -1,6 +1,6 @@
 name: Tbilisi JS Meetup 2
 date: 2024-03-28
-videos: 
+videos: https://www.youtube.com/playlist?list=PLduqjbnjNUvfOTw356-fiYJILYFm9VfmL
 talks:
   - name: Динамические окружения во фронтенде
     speaker: Иракли Бахтадзе
@@ -12,5 +12,5 @@ talks:
     presentation: 
   - name: Еще один способ локализовывать вебсайты
     speaker: Дмитрий Шмаков
-    video: 
+    video: https://youtu.be/JH7cvKIzZdk
     presentation: 

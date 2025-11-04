@@ -1,0 +1,28 @@
+name: Tbilisi JS Meetup 7
+date: 2025-08-16
+videos: https://www.youtube.com/playlist?list=PLduqjbnjNUvfTTAs2agRvYPLKf_EbLvQY
+talks:
+  - name: Почему тени в браузере выглядят как из 2007-го?
+    speaker: Александр Коротаев
+    video: https://youtu.be/Zi9u3sw5JgY
+    presentation: https://lekzd.github.io/presentations/2007-shadows-tbilisi/
+  - name: "Резиновая типографика: магия clamp() "
+    speaker: Татьяна Фокина
+    video: https://youtu.be/kRwLn7iHyD8
+    presentation: https://tatianafokina.github.io/talks/css-clamp-en/
+  - name: Дока друг для друга
+    speaker: Татьяна Фокина
+    video: https://youtu.be/WPJ0N0rISOk
+    presentation: https://tatianafokina.github.io/talks/doka-presentation/
+  - name: Исчезающая реальность
+    speaker: Даниил Савицкий
+    video: https://youtu.be/o2jkbapuxj4
+    presentation: https://t.me/tbilisi_js_chat/22766
+  - name: "Микрофронтенды: прихоть разработчиков или реальная польза для бизнеса?"
+    speaker: Никита Потапов
+    video: https://youtu.be/7uQUYPnKLl8
+    presentation: https://t.me/tbilisi_js_chat/22771
+  - name: ИПР — Индивидуальный Путь Рефлексии
+    speaker: Анна Ширяева
+    video: https://youtu.be/pGeLThgwtTQ
+    presentation: https://t.me/tbilisi_js_chat/22777

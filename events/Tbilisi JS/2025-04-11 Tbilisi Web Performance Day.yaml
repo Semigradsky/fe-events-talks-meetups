@@ -1,0 +1,20 @@
+name: Tbilisi Web Performance Day
+date: 2025-04-11
+videos: https://www.youtube.com/playlist?list=PLduqjbnjNUvf7XYIge0XieSPA42aB4hbD
+talks:
+  - name: "9 ¹⁄₂ недель до релиза"
+    speaker: Даниил Савицкий
+    video: https://youtu.be/dbGm3pDgSPQ
+    presentation: https://t.me/tbilisi_js/384
+  - name: Приёмы оптимизации финансовых чартов
+    speaker: Евгений Коробко
+    video: https://www.youtube.com/watch?v=VqWk-6oKGN4
+    presentation: https://t.me/tbilisi_js/384
+  - name: Когда оптимизации работают против вас
+    speaker: Иван Акулов
+    video: https://youtu.be/JgQsElXk5BM
+    presentation: https://t.me/tbilisi_js/388
+  - name: Три стадии принятия React Compiler
+    speaker: Анна Ширяева
+    video: https://youtu.be/LMJmFmR3SC8
+    presentation: https://t.me/tbilisi_js/388
