@@ -1,0 +1,16 @@
+name: MinskJS 11
+date: 2024-03-06
+videos: https://www.youtube.com/playlist?list=PL-whh3wS8xsIida5jJqWh97jLY9eM0hLv
+talks:
+  - name: Апгрейд браузера с помощью Web Extension API
+    speaker: Александр Селиванов
+    video: https://youtu.be/Jsec_FpAnqY
+    presentation: https://drive.google.com/file/d/1ddpzkwWzvk5reFVR7fIwf9aM38yPlQPP/view?usp=sharing
+  - name: Создание виджетов на iOS с использованием JSX
+    speaker: Олег Поздняков
+    video: https://youtu.be/iTnezJhaJN8
+    presentation: https://jag-k.github.io/minskjs11-jsx/
+  - name: Не учите алгоритмы, они не нужны!*
+    speaker: Полина Гуртовая
+    video: https://youtu.be/0knPHL2yIiw
+    presentation: https://drive.google.com/file/d/15VEr2ZBcFbRPi2yUtg-cIKFgZ5Rh6Umh/view?usp=sharing

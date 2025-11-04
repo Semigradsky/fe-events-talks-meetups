@@ -1,0 +1,16 @@
+name: MinskJS 13
+date: 2025-08-19
+videos: https://www.youtube.com/playlist?list=PL-whh3wS8xsLDvwETZ8Dpr2N-wL7sQcnL
+talks:
+  - name: System Design для Frontend разработчиков. Что, зачем и как?
+    speaker: Василий Ванчук
+    video: https://youtu.be/QjqM9ht7T5g
+    presentation: https://vvscode.github.io/public/fe-system-design/fe-system-design.html
+  - name: "Frontend-фреймворки: лишь перестав выбирать, мы обретаем свободу"
+    speaker: Анна Ширяева
+    video: https://youtu.be/dYkQj4Jvh_M
+    presentation: https://minskjs.github.io/files/slides/Anna_Shiryaeva_-_Frameworks.pdf
+  - name: Как анимации улучшают пользовательский опыт и увеличивают вовлеченность
+    speaker: Евгений Дорошкевич
+    video: https://youtu.be/frPZrK5ssgs
+    presentation: https://minskjs.github.io/files/slides/Evgeniy_Doroshkevich_-_Animations.pdf
