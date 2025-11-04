@@ -31,6 +31,12 @@
 | Архитектура микрофронтендов: от А до Single Spa  |  [Павел Шлыков](speakers/Павел%20Шлыков.md)  | [:notebook:](https://docs.google.com/presentation/d/18e8dnjPJNqHLT9CH2dgSieBhLIc-xKQM/edit?usp=sharing&ouid=102491114441449685365&rtpof=true&sd=true)   |
 | Под капотом платформы  |  [Антон Марченко](speakers/Антон%20Марченко.md)  | [:notebook:](https://drive.google.com/file/d/1MvHvHSsCGnbCXnc1L5Zei6DCI6-K8XOO/view?usp=sharing)   |
 | Гильдия: место, где разработчик перестаёт быть одиноким кузнецом  |  [Владислав Сазонов](speakers/Владислав%20Сазонов.md)  | [:notebook:](https://drive.google.com/file/d/1RiXwcZWSusw4mnG0gcyEPvovspHNrmoz/view?usp=sharing)   |
+## MinskJS 13 - Aug 19 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PL-whh3wS8xsLDvwETZ8Dpr2N-wL7sQcnL)
+| | | |
+| --- | :---: | --- |
+| [System Design для Frontend разработчиков. Что, зачем и как?](https://youtu.be/QjqM9ht7T5g)  |  [Василий Ванчук](speakers/Василий%20Ванчук.md)  | [:notebook:](https://vvscode.github.io/public/fe-system-design/fe-system-design.html)   |
+| [Frontend-фреймворки: лишь перестав выбирать, мы обретаем свободу](https://youtu.be/dYkQj4Jvh_M)  |  [Анна Ширяева](speakers/Анна%20Ширяева.md)  | [:notebook:](https://minskjs.github.io/files/slides/Anna_Shiryaeva_-_Frameworks.pdf)   |
+| [Как анимации улучшают пользовательский опыт и увеличивают вовлеченность](https://youtu.be/frPZrK5ssgs)  |  [Евгений Дорошкевич](speakers/Евгений%20Дорошкевич.md)  | [:notebook:](https://minskjs.github.io/files/slides/Evgeniy_Doroshkevich_-_Animations.pdf)   |
 ## Tbilisi JS Meetup 7 - Aug 16 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PLduqjbnjNUvfTTAs2agRvYPLKf_EbLvQY)
 | | | |
 | --- | :---: | --- |
@@ -70,6 +76,12 @@
 | Архитектура идет по плану  |  [Борис Ермаченко](speakers/Борис%20Ермаченко.md)  | [:notebook:](https://drive.google.com/file/d/1BUWwZwjROcXoRTOHSFKFxLAtgS4U0JYB/view?usp=sharing)   |
 | Коммиты без хаоса: как Conventional Commits делают историю чище и понятнее  |  [Иван Соколовский](speakers/Иван%20Соколовский.md)  | [:notebook:](https://drive.google.com/file/d/1UpK4URBfSJyAW6oCHunPpJUcCnt6u7hG/view?usp=sharing)   |
 | Дискуссия: Стандарты ?&#x3D; коллективное сознательное  |  [Илья Крупнов](speakers/Илья%20Крупнов.md)  [Вадим Царегородцев](speakers/Вадим%20Царегородцев.md)  [Никита Сидоров](speakers/Никита%20Сидоров.md)  | [:notebook:](https://drive.google.com/file/d/1vTyQ0KhHArTdxwlD33Fl4KmaHqWvnsvm/view?usp=sharing)   |
+## MinskCSS 13 - Apr 16 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PL3uk4LxG9ZzmZGqpQmIMbGsiwtB6wU5Dp)
+| | | |
+| --- | :---: | --- |
+| [Доступная тёмная тема. Взгляд изнутри](https://youtu.be/6wK9z7zahPw)  |  [Анастасия Ярош](speakers/Анастасия%20Ярош.md)  | [:notebook:](https://minskcss.github.io/minskcss.by.github.io/files/slides/anastasia_yarosh_-_dark_theme.pdf)   |
+| [Резиновая типографика: магия clamp()](https://youtu.be/jasV7jll_pY)  |  [Татьяна Фокина](speakers/Татьяна%20Фокина.md)  | [:notebook:](https://tatianafokina.github.io/talks/css-clamp/)   |
+| [Вы не знаете MathML. Почти никто не знает](https://youtu.be/iUgE63fMQ4I)  |  [Вадим Макеев](speakers/Вадим%20Макеев.md)  | [:notebook:](https://minskcss.github.io/minskcss.by.github.io/files/slides/vadim-makeev-nobody-knows-mathml.zip)   |
 ## Tbilisi Web Performance Day - Apr 11 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PLduqjbnjNUvf7XYIge0XieSPA42aB4hbD)
 | | | |
 | --- | :---: | --- |
@@ -84,6 +96,12 @@
 | Путь от Senior Web разработчика до Tech Lead Web  |  [Колпаков Александр](speakers/Колпаков%20Александр.md)  | [:notebook:](https://drive.google.com/file/d/1dn5SsnqISNbAdx9p06p1zjRJxFlpLfN_/view?usp=sharing)   |
 | AI во фронтенде: преимущества внедрения машинного обучения в браузере  |  [Булат Ямилов](speakers/Булат%20Ямилов.md)  | [:notebook:](https://drive.google.com/file/d/1ypr8kh_HlczRjLQoEuWbT3dtZYqHJ988/view?usp=sharing)   |
 | Надо, но завтра: как подчинить себе прокрастинацию  |  [Юлия Уварова](speakers/Юлия%20Уварова.md)  | [:notebook:](https://drive.google.com/file/d/1Nv4tkTUM1hQpN9-sFAYcgrJUT3owIn9t/view?usp=sharing)   |
+## MinskJS 12 - Mar 19 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PL-whh3wS8xsKuQdPIESXp0xR1A7tinzkT)
+| | | |
+| --- | :---: | --- |
+| [Да кто такие эти ваши веб-компоненты?!](https://youtu.be/gKmDVYaepJs)  |  [Алексей Назаренко](speakers/Алексей%20Назаренко.md)  | [:notebook:](https://wtf-web-components-minskjs.netlify.app/)   |
+| [Веб-компоненты на твоём любимом фреймворке](https://youtu.be/qfLv4_3JNhk)  |  [Глеб Казачинский](speakers/Глеб%20Казачинский.md)  | [:notebook:](https://minskjs.github.io/files/slides/%D0%93%D0%BB%D0%B5%D0%B1_%D0%9A%D0%B0%D0%B7%D0%B0%D1%87%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_-_%D0%92%D0%B5%D0%B1%D0%BA%D0%BE%D0%BC%D0%BF%D0%BE%D0%BD%D0%B5%D0%BD%D1%82%D1%8B_%D0%BD%D0%B0_%D1%82%D0%B2%D0%BE%D0%B5%D0%BC_%D0%BB%D1%8E%D0%B1%D0%B8%D0%BC%D0%BE%D0%BC_%D1%84%D1%80%D0%B5%D0%B9%D0%BC%D0%B2%D0%BE%D1%80%D0%BA%D0%B5.pdf)   |
+| [gyp ERR! Почему падает npm install?](https://youtu.be/fYRw6QFXkqw)  |  [Анастасия Котова](speakers/Анастасия%20Котова.md)  | [:notebook:](https://minskjs.github.io/files/slides/%D0%90%D0%BD%D0%B0%D1%81%D1%82%D0%B0%D1%81%D0%B8%D1%8F_%D0%9A%D0%BE%D1%82%D0%BE%D0%B2%D0%B0_-_gyp_ERR.pdf)   |
 ## Tbilisi JS Meetup 5 - Feb 22 [:movie_camera:](https:&#x2F;&#x2F;www.youtube.com&#x2F;playlist?list&#x3D;PLduqjbnjNUvc6Xs6JeGVb40yj0EO2XsPt)
 | | | |
 | --- | :---: | --- |

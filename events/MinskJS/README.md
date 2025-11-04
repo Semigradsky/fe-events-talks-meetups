@@ -3,6 +3,24 @@
 
 # MinskJS
 
+## MinskJS 13 - 2025 Aug 19 [:movie_camera:](https://www.youtube.com/playlist?list=PL-whh3wS8xsLDvwETZ8Dpr2N-wL7sQcnL)
+| | | |
+| --- | :---: | --- |
+| [System Design для Frontend разработчиков. Что, зачем и как?](https://youtu.be/QjqM9ht7T5g)  |  [Василий Ванчук](../../speakers/Василий%20Ванчук.md)  | [:notebook:](https://vvscode.github.io/public/fe-system-design/fe-system-design.html)   |
+| [Frontend-фреймворки: лишь перестав выбирать, мы обретаем свободу](https://youtu.be/dYkQj4Jvh_M)  |  [Анна Ширяева](../../speakers/Анна%20Ширяева.md)  | [:notebook:](https://minskjs.github.io/files/slides/Anna_Shiryaeva_-_Frameworks.pdf)   |
+| [Как анимации улучшают пользовательский опыт и увеличивают вовлеченность](https://youtu.be/frPZrK5ssgs)  |  [Евгений Дорошкевич](../../speakers/Евгений%20Дорошкевич.md)  | [:notebook:](https://minskjs.github.io/files/slides/Evgeniy_Doroshkevich_-_Animations.pdf)   |
+## MinskJS 12 - 2025 Mar 19 [:movie_camera:](https://www.youtube.com/playlist?list=PL-whh3wS8xsKuQdPIESXp0xR1A7tinzkT)
+| | | |
+| --- | :---: | --- |
+| [Да кто такие эти ваши веб-компоненты?!](https://youtu.be/gKmDVYaepJs)  |  [Алексей Назаренко](../../speakers/Алексей%20Назаренко.md)  | [:notebook:](https://wtf-web-components-minskjs.netlify.app/)   |
+| [Веб-компоненты на твоём любимом фреймворке](https://youtu.be/qfLv4_3JNhk)  |  [Глеб Казачинский](../../speakers/Глеб%20Казачинский.md)  | [:notebook:](https://minskjs.github.io/files/slides/%D0%93%D0%BB%D0%B5%D0%B1_%D0%9A%D0%B0%D0%B7%D0%B0%D1%87%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_-_%D0%92%D0%B5%D0%B1%D0%BA%D0%BE%D0%BC%D0%BF%D0%BE%D0%BD%D0%B5%D0%BD%D1%82%D1%8B_%D0%BD%D0%B0_%D1%82%D0%B2%D0%BE%D0%B5%D0%BC_%D0%BB%D1%8E%D0%B1%D0%B8%D0%BC%D0%BE%D0%BC_%D1%84%D1%80%D0%B5%D0%B9%D0%BC%D0%B2%D0%BE%D1%80%D0%BA%D0%B5.pdf)   |
+| [gyp ERR! Почему падает npm install?](https://youtu.be/fYRw6QFXkqw)  |  [Анастасия Котова](../../speakers/Анастасия%20Котова.md)  | [:notebook:](https://minskjs.github.io/files/slides/%D0%90%D0%BD%D0%B0%D1%81%D1%82%D0%B0%D1%81%D0%B8%D1%8F_%D0%9A%D0%BE%D1%82%D0%BE%D0%B2%D0%B0_-_gyp_ERR.pdf)   |
+## MinskJS 11 - 2024 Mar 06 [:movie_camera:](https://www.youtube.com/playlist?list=PL-whh3wS8xsIida5jJqWh97jLY9eM0hLv)
+| | | |
+| --- | :---: | --- |
+| [Апгрейд браузера с помощью Web Extension API](https://youtu.be/Jsec_FpAnqY)  |  [Александр Селиванов](../../speakers/Александр%20Селиванов.md)  | [:notebook:](https://drive.google.com/file/d/1ddpzkwWzvk5reFVR7fIwf9aM38yPlQPP/view?usp=sharing)   |
+| [Создание виджетов на iOS с использованием JSX](https://youtu.be/iTnezJhaJN8)  |  [Олег Поздняков](../../speakers/Олег%20Поздняков.md)  | [:notebook:](https://jag-k.github.io/minskjs11-jsx/)   |
+| [Не учите алгоритмы, они не нужны!*](https://youtu.be/0knPHL2yIiw)  |  [Полина Гуртовая](../../speakers/Полина%20Гуртовая.md)  | [:notebook:](https://drive.google.com/file/d/15VEr2ZBcFbRPi2yUtg-cIKFgZ5Rh6Umh/view?usp=sharing)   |
 ## MinskJS 10 - 2023 May 31 [:movie_camera:](https://www.youtube.com/playlist?list=PL-whh3wS8xsKmtx780yYpGdA7kiOIxjyu)
 | | | |
 | --- | :---: | --- |

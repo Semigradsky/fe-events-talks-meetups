@@ -3,6 +3,18 @@
 
 # MinskCSS
 
+## MinskCSS 13 - 2025 Apr 16 [:movie_camera:](https://www.youtube.com/playlist?list=PL3uk4LxG9ZzmZGqpQmIMbGsiwtB6wU5Dp)
+| | | |
+| --- | :---: | --- |
+| [Доступная тёмная тема. Взгляд изнутри](https://youtu.be/6wK9z7zahPw)  |  [Анастасия Ярош](../../speakers/Анастасия%20Ярош.md)  | [:notebook:](https://minskcss.github.io/minskcss.by.github.io/files/slides/anastasia_yarosh_-_dark_theme.pdf)   |
+| [Резиновая типографика: магия clamp()](https://youtu.be/jasV7jll_pY)  |  [Татьяна Фокина](../../speakers/Татьяна%20Фокина.md)  | [:notebook:](https://tatianafokina.github.io/talks/css-clamp/)   |
+| [Вы не знаете MathML. Почти никто не знает](https://youtu.be/iUgE63fMQ4I)  |  [Вадим Макеев](../../speakers/Вадим%20Макеев.md)  | [:notebook:](https://minskcss.github.io/minskcss.by.github.io/files/slides/vadim-makeev-nobody-knows-mathml.zip)   |
+## MinskCSS 12 - 2024 Aug 07 [:movie_camera:](https://www.youtube.com/playlist?list=PL3uk4LxG9Zzm8vX9HbuWCKuFxAyc8tXov)
+| | | |
+| --- | :---: | --- |
+| [3D-моделирование на CSS](https://youtu.be/r06cu0U1O5g)  |  [Юлия Миоцен](../../speakers/Юлия%20Миоцен.md)  |  [:octocat:](https://codepen.io/miocene/pen/eYaRgVE)  |
+| [Возможности AI в цифровой доступности](https://youtu.be/gxmrE6_vajo)  |  [Глафира Жур](../../speakers/Глафира%20Жур.md)  | [:notebook:](https://docs.google.com/presentation/d/1VRO25KQGR0swgAKuUrp67YrQ4VPU--dbfFR9tbfBsgg)   |
+| [What we do in the Shadow (DOM)](https://youtu.be/xBDZAj3ufMQ)  |  [Алексей Назаренко](../../speakers/Алексей%20Назаренко.md)  | [:notebook:](https://shadow-dom-minskcss.netlify.app/)   |
 ## MinskCSS 11 - 2023 Dec 13 [:movie_camera:](https://www.youtube.com/playlist?list=PL3uk4LxG9ZznGCBLJZhifqjQoPQ-7-6zn)
 | | | |
 | --- | :---: | --- |
